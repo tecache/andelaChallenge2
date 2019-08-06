@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Travelmatrics</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">TravelMantics</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_lists">List Value</string>
+    <string name="upload_image">UPLOAD</string>
+</resources>
